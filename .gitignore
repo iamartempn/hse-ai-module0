@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Окружение
+.venv/
+.python-version
+
+# macOS
+.DS_Store
+
+# Кэши
+.ruff_cache/
+.pytest_cache/
+
+# Временные файлы Word
+~$*.docx
+
+# Служебный генератор ноутбука, в сдаваемый комплект не входит
+Homework1/build_report.py

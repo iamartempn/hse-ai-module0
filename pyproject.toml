@@ -1,0 +1,14 @@
+[project]
+name = "module0"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.3",
+    "matplotlib>=3.10.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2,<3",
+    "python-docx>=1.2.0",
+    "setuptools<81",
+    "ydata-profiling>=4.12",
+]
