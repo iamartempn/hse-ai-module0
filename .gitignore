@@ -19,3 +19,4 @@ __pycache__/
 
 # Служебный генератор ноутбука, в сдаваемый комплект не входит
 Homework1/build_report.py
+Homework1/make_docx.py
